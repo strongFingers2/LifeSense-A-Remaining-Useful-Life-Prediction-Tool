@@ -2,9 +2,7 @@
 
 A machine learning model that predicts how many operating cycles a machine has left before failure, trained on NASA's C-MAPSS turbofan engine dataset. A live dashboard lets you scrub through an engine's life and watch the prediction count down to a maintenance alert.
 
-**Live dashboard:** https://predictive-maintenance-rul-hkvvoykelwimvvmmuodzmf.streamlit.app
-
-![Dashboard Screenshot](assets/dashboard.png)
+**Live dashboard:** https://lifesense.streamlit.app/
 
 ## Why this project
 
